@@ -6,6 +6,7 @@ SRC += ssd1306.c
 # CFLAGS += -flto
 
 # MCU name
+#MCU = at90usb1287
 MCU = atmega32u4
 
 # Processor frequency.
